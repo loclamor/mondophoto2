@@ -1,0 +1,5 @@
+nbproject
+bpcf*
+*.version
+logs/*
+conf/dbpass.php
